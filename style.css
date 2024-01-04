@@ -56,7 +56,6 @@ input:focus {
 /* Стилизация кнопки */
 .btn {
     padding: 10px 50px;
-    margin: 0 auto;
 
     color: #fff;
     background-color: #7349b5;
